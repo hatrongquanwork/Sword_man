@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5163a42cdc949ee4cb5a855b866ec734, type: 3}
+  m_Name: PotionHunger
+  m_EditorClassIdentifier: 
+  itemType: 1
+  icon: {fileID: 144826294336361782, guid: 3b54644cc4fe96649980cdc1e71c40d4, type: 3}
+  itemName: Potion Hunger
+  description: Increase 50 Hunger
+  isStackable: 1
+  maxStack: 3
+  healthChange: 0
+  hungerChange: 50
+  thirstChange: 0
